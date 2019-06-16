@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Connect3</string>
+    <string name="todo">TODO</string>
+    <string name="rel">rel</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="todo1">todo1</string>
+    <string name="todo4">todo4</string>
+    <string name="todo5">todo5</string>
+    <string name="todo9">todo9</string>
+    <string name="play_again">Play again</string>
+    <string name="todo8">todo8</string>
+    <string name="todo7">todo7</string>
+    <string name="todo6">todo6</string>
+    <string name="todo3">todo3</string>
+    <string name="todo2">todo2</string>
+</resources>
